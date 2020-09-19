@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "648421165195",
+    "firebase_url": "https://prova-dartora.firebaseio.com",
+    "project_id": "prova-dartora",
+    "storage_bucket": "prova-dartora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648421165195:android:a0637431e66ba2d2922c8e",
+        "android_client_info": {
+          "package_name": "com.example.prova_dartora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648421165195-prbik2rcecn12rmbiaelct348sirtthp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBfqcJ_u8pXuB6Ly9U7hr16PT6LZOmZMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648421165195-prbik2rcecn12rmbiaelct348sirtthp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
